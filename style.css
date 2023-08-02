@@ -1,0 +1,14 @@
+.imagename {
+  font-size: medium;
+  font-weight: bold;
+  color: blueviolet;
+  text-align: center;
+}
+
+.heading{
+  font-size: larger;
+  font-weight: bolder;
+  color:crimson;
+  text-align: center;
+  margin-top: 20px;
+}
